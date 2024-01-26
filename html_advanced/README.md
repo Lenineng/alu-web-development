@@ -10,11 +10,6 @@ Design Preview
 School Page
 Getting Started
 
-Follow these steps to clone the repository and view the webpage using index.html.
-Clone Repository
-
-https://github.com/lscblack/alu-web-development.git
-
 Open Webpage
 
     Navigate to the cloned directory.
