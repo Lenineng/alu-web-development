@@ -1,7 +1,7 @@
 # Smile
 
 ## Author
-Loue Sauveur Christian (GitHub: lscblack)
+lenine ngenzi
 
 ## Overview
 This repository contains an implementation of a webpage using pure HTML semantic elements. The design is based on the provided designer file without any CSS or styling.
@@ -12,10 +12,6 @@ This repository contains an implementation of a webpage using pure HTML semantic
 ## Getting Started
 Follow these steps to clone the repository and view the webpage using `index.html`.
 
-### Clone Repository
-```bash
-https://github.com/lscblack/alu-web-development.git
-```
 
 ### Open Webpage
 1. Navigate to the cloned directory.
